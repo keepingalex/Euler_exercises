@@ -1,0 +1,6 @@
+var sum = 0; //Here we stock the sums total value
+
+for(var i = 0; i < 1000; i++){
+  if(i % 3 === 0 || i % 5 === 0)´
+  sum = sum + i;
+}
